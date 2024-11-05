@@ -1,2 +1,1 @@
-# vpc-peering-terraform
-vpc-peering connections
+# terraform-crossaccount-module
